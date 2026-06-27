@@ -1,9 +1,9 @@
-## Hi there 👋
+## Greeting from Koaxy & Wyatt. 👋
 
-## This is a sexy repo used for some gay things and some not
-## Contribution guidelines - you cannot currently get involved as all our projects are private
-## 👩‍💻 There will be some soon we will let everyone know when they release
-## 🍿 Fun facts - what does your team eat for breakfast, wendys BLTS and Mcdonalds breakfast (including shitting urself)
+## This is a sexy organisation used for some gay things and some not
+## Contribution guidelines - you cannot currently get involved as all our projects are private, for the moment we may make some public things.
+## There will be some soon we will let everyone know when they release
+## Fun facts - what does your team eat for breakfast, wendys BLTS and Mcdonalds breakfast (including shitting urself)
 
 <!--
 
